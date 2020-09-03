@@ -1524,7 +1524,7 @@ fieldset[disabled]
 .show > .btn-primary.dropdown-toggle,
 .show > .btn-primary.dropdown-toggle:focus,
 .show > .btn-primary.dropdown-toggle:hover {
-  background-color: #40a249;
+  background-color: #008CC1;
   color: #FFFFFF;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -1542,8 +1542,10 @@ fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #378C3F;
-  border-color: #378C3F;
+/*  background-color: #378C3F;
+  border-color: #378C3F;*/
+  background-color: #008CC1;
+  border-color: #1EACE0;
 }
 
 .btn-primary.btn-simple {
